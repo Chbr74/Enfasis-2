@@ -12,7 +12,7 @@ package FactoryMethod1;
    public static final int VIDEO = 2;
 
 
-   // --------------------------------
+   // ---------------------------------
 
 
      public abstract IArchivo crear(int tipo);
